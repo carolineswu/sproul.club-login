@@ -1,3 +1,3 @@
-# sproul.club_login
+# sproul.club login
 
 Frontend engineering challenge for sproul.club
